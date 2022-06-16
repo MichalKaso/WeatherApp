@@ -1,4 +1,4 @@
-import weather from "./weather";
+import weather from "./weatherApp";
 import * as svg from "./svg";
 
 (function() {
